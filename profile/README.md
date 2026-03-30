@@ -34,6 +34,7 @@ Integrate step by step using OAuth2 / OIDC.
 | React | [react-samples](https://github.com/myiam-io/react-samples) |
 | Next.js | [nextjs-samples](https://github.com/myiam-io/nextjs-samples) |
 | Flutter | [flutter-samples](https://github.com/myiam-io/flutter-samples) |
+| Spring Boot | [springboot-samples](https://github.com/myiam-io/springboot-samples) |
 
 ### Docs
 
