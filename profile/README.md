@@ -36,11 +36,12 @@ Integrate step by step using OAuth2 / OIDC.
 | Flutter | [flutter-samples](https://github.com/myiam-io/flutter-samples) |
 | Spring Boot | [springboot-samples](https://github.com/myiam-io/springboot-samples) |
 | Firebase Flutter | [firebase-flutter-sample](https://github.com/myiam-io/firebase-flutter-sample) |
+| Supabase Flutter | [supabase-flutter-sample](https://github.com/myiam-io/supabase-flutter-sample) |
 
 ### Docs
 
 - Quickstart: [React](https://myiam.io/docs/quickstart/react) · [Next.js](https://myiam.io/docs/quickstart/nextjs) · [Flutter](https://myiam.io/docs/quickstart/flutter)
-- Guide: [Firebase Flutter](https://myiam.io/docs/guide/firebase-flutter)
+- Guide: [Firebase Flutter](https://myiam.io/docs/guide/firebase-flutter) · [Supabase Flutter](https://myiam.io/docs/guide/supabase-flutter)
 - [API Reference](https://myiam.io/docs/api)
 
 ### Links
