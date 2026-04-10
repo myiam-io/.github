@@ -24,8 +24,8 @@ Integrate step by step using OAuth2 / OIDC.
 
 ### SDKs
 
-- **Web** — [@myiam.io/web-sdk](https://www.npmjs.com/package/@myiam.io/web-sdk) (npm) · [Client API](https://myiam.io/docs/sdk/web/client) · [Server API](https://myiam.io/docs/sdk/web/server)
-- **Flutter** — [myiam_flutter_sdk](https://pub.dev/packages/myiam_flutter_sdk) (pub.dev) · [Auth API](https://myiam.io/docs/sdk/flutter/auth) · [REST API](https://myiam.io/docs/sdk/flutter/rest-api)
+- **Web** — [@myiam.io/web-sdk](https://www.npmjs.com/package/@myiam.io/web-sdk) (npm) · [Client API](https://myiam.io/docs/sdk/web/client?utm_source=github&utm_medium=referral&utm_campaign=org-readme&utm_content=sdk-web) · [Server API](https://myiam.io/docs/sdk/web/server?utm_source=github&utm_medium=referral&utm_campaign=org-readme&utm_content=sdk-web)
+- **Flutter** — [myiam_flutter_sdk](https://pub.dev/packages/myiam_flutter_sdk) (pub.dev) · [Auth API](https://myiam.io/docs/sdk/flutter/auth?utm_source=github&utm_medium=referral&utm_campaign=org-readme&utm_content=sdk-flutter) · [REST API](https://myiam.io/docs/sdk/flutter/rest-api?utm_source=github&utm_medium=referral&utm_campaign=org-readme&utm_content=sdk-flutter)
 
 ### Sample Projects
 
@@ -40,11 +40,11 @@ Integrate step by step using OAuth2 / OIDC.
 
 ### Docs
 
-- Quickstart: [React](https://myiam.io/docs/quickstart/react) · [Next.js](https://myiam.io/docs/quickstart/nextjs) · [Flutter](https://myiam.io/docs/quickstart/flutter)
-- Guide: [Firebase Flutter](https://myiam.io/docs/guide/firebase-flutter) · [Supabase Flutter](https://myiam.io/docs/guide/supabase-flutter)
-- [API Reference](https://myiam.io/docs/api)
+- Quickstart: [React](https://myiam.io/docs/quickstart/react?utm_source=github&utm_medium=referral&utm_campaign=org-readme&utm_content=docs-quickstart) · [Next.js](https://myiam.io/docs/quickstart/nextjs?utm_source=github&utm_medium=referral&utm_campaign=org-readme&utm_content=docs-quickstart) · [Flutter](https://myiam.io/docs/quickstart/flutter?utm_source=github&utm_medium=referral&utm_campaign=org-readme&utm_content=docs-quickstart)
+- Guide: [Firebase Flutter](https://myiam.io/docs/guide/firebase-flutter?utm_source=github&utm_medium=referral&utm_campaign=org-readme&utm_content=docs-guide) · [Supabase Flutter](https://myiam.io/docs/guide/supabase-flutter?utm_source=github&utm_medium=referral&utm_campaign=org-readme&utm_content=docs-guide)
+- [API Reference](https://myiam.io/docs/api?utm_source=github&utm_medium=referral&utm_campaign=org-readme&utm_content=docs-api)
 
 ### Links
 
-- [myiam.io](https://myiam.io)
+- [myiam.io](https://myiam.io?utm_source=github&utm_medium=referral&utm_campaign=org-readme&utm_content=homepage)
 - contact@myiam.io
