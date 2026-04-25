@@ -37,6 +37,7 @@ Integrate step by step using OAuth2 / OIDC.
 | Spring Boot | [springboot-samples](https://github.com/myiam-io/springboot-samples) |
 | Firebase Flutter | [firebase-flutter-sample](https://github.com/myiam-io/firebase-flutter-sample) |
 | Supabase Flutter | [supabase-flutter-sample](https://github.com/myiam-io/supabase-flutter-sample) |
+| Homebrew | [homebrew-tap](https://github.com/myiam-io/homebrew-tap) |
 
 ### Docs
 
